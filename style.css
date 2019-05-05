@@ -1,0 +1,13 @@
+h1, h2 {
+  font-family: Lato;
+}
+
+.calendar .daysOfMonth li{
+  display: block;
+  float : left;
+  width: 15%;
+  height: 30px;
+  padding: 5px;
+  border: 1px solid;
+  background-color: aqua;
+}
